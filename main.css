@@ -23,6 +23,8 @@ body {
     min-height: 100vh;
     font-family: 'Poppins', sans-serif;
     color: var(--dark-color);
+    background: url('./primary-bg.png') no-repeat center center fixed;
+    
 }
 
 .wrapper {
