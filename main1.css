@@ -1,9 +1,4 @@
-@font-face {
-    font-family: 'Bauhaus Light BT';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Bauhaus Light BT'), url('../bauhaus-font/bauhauslightbt.woff') format('woff');
-}
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap');
 
 :root {
     --color-purple: #49159b;
